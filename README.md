@@ -27,3 +27,7 @@ The pipeline is implemented using GitHub Actions and consists of three stages:
 - GitHub Actions
 - Docker (optional)
 - :contentReference[oaicite:0]{index=0} (for deployment)
+## Challenges Faced
+- Understanding GitHub Actions workflow syntax
+- Fixing deployment errors
+- Managing environment variables using GitHub Secrets
