@@ -17,3 +17,8 @@ The pipeline is implemented using GitHub Actions and consists of three stages:
 
 3. Deploy:
 - Automatically deploys the application to Render when code is pushed to main branch
+## Git Workflow
+- Created feature branch: feature/devops-enhancement
+- Made multiple commits
+- Created pull request (PR)
+- Merged into main branch after review
