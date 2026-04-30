@@ -22,3 +22,8 @@ The pipeline is implemented using GitHub Actions and consists of three stages:
 - Made multiple commits
 - Created pull request (PR)
 - Merged into main branch after review
+## Tools Used
+- Git & GitHub
+- GitHub Actions
+- Docker (optional)
+- :contentReference[oaicite:0]{index=0} (for deployment)
